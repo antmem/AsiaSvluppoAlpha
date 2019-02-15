@@ -1,0 +1,7 @@
+{
+  "name": "ASIA",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
